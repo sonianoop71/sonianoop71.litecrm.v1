@@ -1,0 +1,22 @@
+body{
+	background-color: #80dfff;
+}
+.name{
+	margin: 0 auto;
+	margin-top: 10px;
+	border-radius: 10px;
+	width: 80%;
+}
+.header{
+	margin: 0 auto;
+	margin-top: 50px;
+	color: #0066ff;
+	font-size: 16px;
+	font-weight: bold;
+	width: 80%;
+}
+.wrapper{
+	width: 100%;
+	margin: 0 auto;
+	text-align:center;
+}
