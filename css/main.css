@@ -20,3 +20,11 @@ body{
 	margin: 0 auto;
 	text-align:center;
 }
+.images_wrapper{
+	width: 100%;
+	margin: 0 auto;
+}
+.image_div{
+	width:50%;
+	margin:0 auto;
+}

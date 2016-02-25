@@ -13,7 +13,11 @@ var CACHE_NAME = 'lite-crm-cache-v1';
 var urlsToCache = [
   '',
   'css/main.css',
-  'index.html'
+  'index.html',
+  'images/1.jpg',
+  'images/2.jpg',
+  'images/3.jpg',
+  'images/4.jpg'
 ];
 
 self.addEventListener('install', function(event) {
